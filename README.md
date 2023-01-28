@@ -1,2 +1,2 @@
 # alexos
-A TiddlyWiki for Learning Discoveries 
+A TiddlyWiki blog for writing up Learning Discoveries.
